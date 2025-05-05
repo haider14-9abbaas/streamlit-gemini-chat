@@ -46,13 +46,6 @@ Before running the app, ensure the following:
 ## 🧪 Local Setup Instructions
 - streamlit run app.py
 
-
-### 1. 🔁 Clone the Repository
-
-```bash
-git clone https://github.com/your-username/gemini-chatbot.git
-cd gemini-chatbot
-
 ## 🧑‍💻 Developers & Credits
 
 - Built By:
